@@ -1,10 +1,10 @@
-Projet sur la création d'un jeu de plateau stratégique Tablut. 
-L3 Informatique UGA. 
+# Projet sur la création d'un jeu de plateau stratégique Tablut en Java
 
-Equipe : 
-Alexis THACH
-Antoine SAUZEAU  
-Oliver MINEAU 
-Vincent PENHOUET
-Sylvain JOUBERT
-Achraf SBARTAÏ 
+## Développeurs
+
+- Alexis THACH
+- Antoine SAUZEAU  
+- Oliver MINEAU 
+- Vincent PENHOUET
+- Sylvain JOUBERT
+- Achraf SBARTAÏ 
